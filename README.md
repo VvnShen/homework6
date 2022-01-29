@@ -1,5 +1,6 @@
 # homework6
-
+## add a .env file:
+mapbox="pk.eyJ1Ijoidml2aWFuZG91bmFpIiwiYSI6ImNrdHB2MnE5ZDBqengyb2w4ajd0dDk1eHEifQ.cX5zranxEvlBA-2fQyzeig"
 ## open dashboard.ipynb
 ## run each line of codes
 ## finally you would get a dashboard like this:
